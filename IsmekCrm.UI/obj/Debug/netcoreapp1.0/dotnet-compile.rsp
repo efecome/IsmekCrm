@@ -1,5 +1,5 @@
---temp-output:C:\Users\Lab03-16\Documents\Visual Studio 2015\Projects\IsmekCrm\IsmekCrm.UI\obj\Debug\netcoreapp1.0\
---out:C:\Users\Lab03-16\Documents\Visual Studio 2015\Projects\IsmekCrm\IsmekCrm.UI\bin\Debug\netcoreapp1.0\IsmekCrm.UI.dll
+--temp-output:C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\bin\Debug\netcoreapp1.0\IsmekCrm.UI.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -121,6 +121,6 @@
 --reference:C:\Users\Lab03-16\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Lab03-16\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Lab03-16\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\Lab03-16\Documents\Visual Studio 2015\Projects\IsmekCrm\IsmekCrm.UI\obj\Debug\netcoreapp1.0\IsmekCrm.UIdotnet-compile.deps.json",IsmekCrm.UI.deps.json
-C:\Users\Lab03-16\Documents\Visual Studio 2015\Projects\IsmekCrm\IsmekCrm.UI\Program.cs
-C:\Users\Lab03-16\Documents\Visual Studio 2015\Projects\IsmekCrm\IsmekCrm.UI\Startup.cs
+--resource:"C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\obj\Debug\netcoreapp1.0\IsmekCrm.UIdotnet-compile.deps.json",IsmekCrm.UI.deps.json
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\Program.cs
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\Startup.cs

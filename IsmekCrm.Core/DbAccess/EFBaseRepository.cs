@@ -62,7 +62,7 @@ namespace IsmekCrm.Core.DbAccess
         {
             using (var context = new TContext())
             {
-                var updatedData = context.Enrty(entity);
+                var updatedData = context.Entry(entity);
                 updatedData.State = EntityState.Modified;
                 context.SaveChanges();
             }

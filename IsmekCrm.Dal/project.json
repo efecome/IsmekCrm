@@ -1,7 +1,11 @@
-﻿{
+{
   "version": "1.0.0-*",
 
   "dependencies": {
+    "IsmekCrm.Core": "1.0.0-*",
+    "IsmekCrm.Entity": "1.0.0-*",
+    "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
+    "Microsoft.IdentityModel.Protocols": "2.0.0",
     "NETStandard.Library": "1.6.0"
   },
 

@@ -1,7 +1,9 @@
-﻿{
+{
   "version": "1.0.0-*",
 
   "dependencies": {
+    "IsmekCrm.Dal": "1.0.0-*",
+    "IsmekCrm.Entity": "1.0.0-*",
     "NETStandard.Library": "1.6.0"
   },
 
