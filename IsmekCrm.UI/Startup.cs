@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using IsmekCrm.Bll.Abstract;
+using IsmekCrm.Bll.Concrete;
+using IsmekCrm.Dal.Concrete;
+using IsmekCrm.Dal.Abstract;
 
 namespace IsmekCrm.UI
 {
@@ -19,6 +23,13 @@ namespace IsmekCrm.UI
         {
 
             services.AddMvc();
+
+            services.AddScoped<IUserService, UserManager>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ITaskRepository, TaskRepository>();
+            services.AddScoped<ITaskService, ITaskService>();
+           
+          
 
         }
 

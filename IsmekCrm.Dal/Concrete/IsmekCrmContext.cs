@@ -9,7 +9,9 @@ namespace Concrete
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=LAB03-15;Database=IsmekCrm;Integrated Security=True;");
+            //optionsBuilder.UseSqlServer("Server=LAB03-15;Database=IsmekCrm;Integrated Security=True;");
+
+           
         }
 
         public DbSet<User> User { get; set; }

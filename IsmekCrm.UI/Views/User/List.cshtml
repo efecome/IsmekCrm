@@ -1,0 +1,18 @@
+﻿@using IsmekCrm.UI.Models
+@Model UserViewModel
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>UserName</th>
+        <th>Password</th>
+    </tr>
+    @foreach (var item in Model.ListUser)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Username</td>
+            <td>@item.Password</td>
+        </tr>
+    }
+</table>

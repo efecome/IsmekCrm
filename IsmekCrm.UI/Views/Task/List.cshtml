@@ -1,0 +1,19 @@
+﻿@using IsmekCrm.UI.Models
+@Model TaskViewModel
+
+
+<table>
+    <tr>
+        <td>PostDate</td>
+        <td>Title</td>
+        <td>Description</td>
+    </tr>
+    @foreach (var item in Model.TaskList)
+    {
+        <tr>
+            <td>@item.PostDate</td>
+            <td>@item.Title</td>
+            <td>@item.Description</td>
+        </tr>
+    }
+</table>

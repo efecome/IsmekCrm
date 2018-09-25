@@ -1,1 +1,7 @@
 #:C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\IsmekCrm.UI.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.UI\IsmekCrm.UI.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Bll\IsmekCrm.Bll.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Bll\IsmekCrm.Bll.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Dal\IsmekCrm.Dal.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Bll\IsmekCrm.Bll.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Entity\IsmekCrm.Entity.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Dal\IsmekCrm.Dal.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Core\IsmekCrm.Core.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Dal\IsmekCrm.Dal.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Entity\IsmekCrm.Entity.xproj
+C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Entity\IsmekCrm.Entity.xproj|C:\Users\Lab03-16\Source\Repos\IsmekCrm\IsmekCrm.Core\IsmekCrm.Core.xproj
